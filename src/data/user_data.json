@@ -1,0 +1,71 @@
+{
+  "merchant": {
+    "id": "mrc_adeyemi_provisions",
+    "businessName": "HIMER Stores",
+    "tradingName": "HIMER Stores",
+    "branch": "Osogbo Flagship",
+    "kycTier": 2,
+    "verificationStatus": "verified",
+    "bvnLast4": "4821",
+    "ninLast4": "7390",
+    "email": "ops@himerstores.ng",
+    "phone": "+2348012345678",
+    "address": "No4, behind NECO office, Ataoja estate, Osogbo",
+    "currency": "NGN",
+    "createdAt": "2024-03-12T09:15:00.000Z"
+  },
+  "wallet": {
+    "id": "wlt_novabiz_adeyemi_001",
+    "currency": "NGN",
+    "availableBalanceKobo": 337543050,
+    "ledgerBalanceKobo": 364383636,
+    "pendingCreditKobo": 185283357,
+    "pendingDebitKobo": 158442771,
+    "openingBalanceKobo": 979952747,
+    "asOf": "2026-10-20T08:30:00.000Z"
+  },
+  "today": {
+    "date": "2026-10-20",
+    "inflowKobo": 12052500,
+    "outflowKobo": 8630000,
+    "netKobo": 3422500,
+    "successfulCreditCount": 12,
+    "successfulDebitCount": 8
+  },
+  "terminals": {
+    "activeCount": 4,
+    "totalCount": 4,
+    "syncPercent": 100,
+    "items": [
+      {
+        "id": "pos_001",
+        "label": "Counter 1",
+        "status": "active",
+        "lastSeenAt": "2026-10-20T08:21:12.000Z"
+      },
+      {
+        "id": "pos_002",
+        "label": "Counter 2",
+        "status": "active",
+        "lastSeenAt": "2026-10-20T08:18:05.000Z"
+      },
+      {
+        "id": "pos_003",
+        "label": "Bakery till",
+        "status": "active",
+        "lastSeenAt": "2026-10-20T07:55:44.000Z"
+      },
+      {
+        "id": "pos_004",
+        "label": "Mobile QR stand",
+        "status": "active",
+        "lastSeenAt": "2026-10-20T08:25:18.000Z"
+      }
+    ]
+  },
+  "preferences": {
+    "locale": "en-NG",
+    "timezone": "Africa/Lagos",
+    "theme": "system"
+  }
+}
